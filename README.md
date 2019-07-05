@@ -1,9 +1,9 @@
 *requirements*
-1. install java
-2. download and install processing
+1. Install java
+2. Install processing
 
 *Code style*
-written in processing
+written in processing(Java),
 
-# rain
+**Rain**
 A simple animation program that simulates rainfall
