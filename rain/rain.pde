@@ -7,6 +7,7 @@ void setup(){
 }
 
 }
+
 void draw(){
   background(230);
   for(int i=0; i<d.length; i++){
