@@ -24,5 +24,3 @@ vendor
 .gradle
 classes
 out
-
-avenue-deployment.yml
