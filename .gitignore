@@ -1,0 +1,26 @@
+# generic ignores
+bin
+target
+build
+.DS_Store
+.jar
+
+# eclipse
+.classpath
+.project
+.settings
+.metadata
+.externalToolBuilders
+*.launch
+
+# intellij
+.idea
+*.iml
+
+# PHP / Composer
+vendor
+
+# Gradle
+.gradle
+classes
+out
